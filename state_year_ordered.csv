@@ -1,0 +1,301 @@
+code,fiscal_year,num_grants,state,state_total
+AK,2020,66,Alaska,303
+AK,2021,64,Alaska,303
+AK,2022,56,Alaska,303
+AK,2023,49,Alaska,303
+AK,2024,42,Alaska,303
+AK,2025,26,Alaska,303
+AL,2020,147,Alabama,887
+AL,2021,132,Alabama,887
+AL,2022,137,Alabama,887
+AL,2023,166,Alabama,887
+AL,2024,170,Alabama,887
+AL,2025,135,Alabama,887
+AR,2020,51,Arkansas,303
+AR,2021,51,Arkansas,303
+AR,2022,50,Arkansas,303
+AR,2023,56,Arkansas,303
+AR,2024,54,Arkansas,303
+AR,2025,41,Arkansas,303
+AZ,2020,324,Arizona,1627
+AZ,2021,288,Arizona,1627
+AZ,2022,278,Arizona,1627
+AZ,2023,266,Arizona,1627
+AZ,2024,280,Arizona,1627
+AZ,2025,191,Arizona,1627
+CA,2020,1516,California,8129
+CA,2021,1537,California,8129
+CA,2022,1452,California,8129
+CA,2023,1340,California,8129
+CA,2024,1271,California,8129
+CA,2025,1013,California,8129
+CO,2020,372,Colorado,1930
+CO,2021,368,Colorado,1930
+CO,2022,331,Colorado,1930
+CO,2023,327,Colorado,1930
+CO,2024,293,Colorado,1930
+CO,2025,239,Colorado,1930
+CT,2020,191,Connecticut,905
+CT,2021,159,Connecticut,905
+CT,2022,157,Connecticut,905
+CT,2023,134,Connecticut,905
+CT,2024,138,Connecticut,905
+CT,2025,126,Connecticut,905
+DE,2020,80,Delaware,429
+DE,2021,73,Delaware,429
+DE,2022,60,Delaware,429
+DE,2023,74,Delaware,429
+DE,2024,70,Delaware,429
+DE,2025,72,Delaware,429
+FL,2020,472,Florida,2426
+FL,2021,424,Florida,2426
+FL,2022,395,Florida,2426
+FL,2023,419,Florida,2426
+FL,2024,403,Florida,2426
+FL,2025,313,Florida,2426
+GA,2020,377,Georgia,1869
+GA,2021,276,Georgia,1869
+GA,2022,294,Georgia,1869
+GA,2023,362,Georgia,1869
+GA,2024,314,Georgia,1869
+GA,2025,246,Georgia,1869
+HI,2020,72,Hawaii,394
+HI,2021,72,Hawaii,394
+HI,2022,63,Hawaii,394
+HI,2023,69,Hawaii,394
+HI,2024,64,Hawaii,394
+HI,2025,54,Hawaii,394
+IA,2020,127,Iowa,701
+IA,2021,98,Iowa,701
+IA,2022,118,Iowa,701
+IA,2023,115,Iowa,701
+IA,2024,129,Iowa,701
+IA,2025,114,Iowa,701
+ID,2020,54,Idaho,306
+ID,2021,47,Idaho,306
+ID,2022,42,Idaho,306
+ID,2023,52,Idaho,306
+ID,2024,58,Idaho,306
+ID,2025,53,Idaho,306
+IL,2020,557,Illinois,2806
+IL,2021,470,Illinois,2806
+IL,2022,443,Illinois,2806
+IL,2023,470,Illinois,2806
+IL,2024,496,Illinois,2806
+IL,2025,370,Illinois,2806
+IN,2020,306,Indiana,1800
+IN,2021,316,Indiana,1800
+IN,2022,325,Indiana,1800
+IN,2023,293,Indiana,1800
+IN,2024,308,Indiana,1800
+IN,2025,252,Indiana,1800
+KS,2020,102,Kansas,471
+KS,2021,68,Kansas,471
+KS,2022,74,Kansas,471
+KS,2023,86,Kansas,471
+KS,2024,88,Kansas,471
+KS,2025,53,Kansas,471
+KY,2020,72,Kentucky,434
+KY,2021,70,Kentucky,434
+KY,2022,75,Kentucky,434
+KY,2023,58,Kentucky,434
+KY,2024,82,Kentucky,434
+KY,2025,77,Kentucky,434
+LA,2020,112,Louisiana,686
+LA,2021,121,Louisiana,686
+LA,2022,121,Louisiana,686
+LA,2023,83,Louisiana,686
+LA,2024,142,Louisiana,686
+LA,2025,107,Louisiana,686
+MA,2020,849,Massachusetts,4366
+MA,2021,784,Massachusetts,4366
+MA,2022,735,Massachusetts,4366
+MA,2023,732,Massachusetts,4366
+MA,2024,733,Massachusetts,4366
+MA,2025,533,Massachusetts,4366
+MD,2020,336,Maryland,1691
+MD,2021,285,Maryland,1691
+MD,2022,276,Maryland,1691
+MD,2023,300,Maryland,1691
+MD,2024,272,Maryland,1691
+MD,2025,222,Maryland,1691
+ME,2020,46,Maine,284
+ME,2021,49,Maine,284
+ME,2022,49,Maine,284
+ME,2023,47,Maine,284
+ME,2024,54,Maine,284
+ME,2025,39,Maine,284
+MI,2020,433,Michigan,2390
+MI,2021,375,Michigan,2390
+MI,2022,403,Michigan,2390
+MI,2023,462,Michigan,2390
+MI,2024,414,Michigan,2390
+MI,2025,303,Michigan,2390
+MN,2020,201,Minnesota,963
+MN,2021,136,Minnesota,963
+MN,2022,157,Minnesota,963
+MN,2023,172,Minnesota,963
+MN,2024,178,Minnesota,963
+MN,2025,119,Minnesota,963
+MO,2020,153,Missouri,944
+MO,2021,143,Missouri,944
+MO,2022,162,Missouri,944
+MO,2023,196,Missouri,944
+MO,2024,147,Missouri,944
+MO,2025,143,Missouri,944
+MS,2020,45,Mississippi,367
+MS,2021,57,Mississippi,367
+MS,2022,61,Mississippi,367
+MS,2023,69,Mississippi,367
+MS,2024,74,Mississippi,367
+MS,2025,61,Mississippi,367
+MT,2020,75,Montana,312
+MT,2021,59,Montana,312
+MT,2022,44,Montana,312
+MT,2023,46,Montana,312
+MT,2024,53,Montana,312
+MT,2025,35,Montana,312
+NC,2020,414,North Carolina,2264
+NC,2021,427,North Carolina,2264
+NC,2022,379,North Carolina,2264
+NC,2023,373,North Carolina,2264
+NC,2024,375,North Carolina,2264
+NC,2025,296,North Carolina,2264
+ND,2020,31,North Dakota,173
+ND,2021,26,North Dakota,173
+ND,2022,23,North Dakota,173
+ND,2023,38,North Dakota,173
+ND,2024,20,North Dakota,173
+ND,2025,35,North Dakota,173
+NE,2020,53,Nebraska,438
+NE,2021,67,Nebraska,438
+NE,2022,80,Nebraska,438
+NE,2023,72,Nebraska,438
+NE,2024,90,Nebraska,438
+NE,2025,76,Nebraska,438
+NH,2020,77,New Hampshire,366
+NH,2021,57,New Hampshire,366
+NH,2022,60,New Hampshire,366
+NH,2023,54,New Hampshire,366
+NH,2024,52,New Hampshire,366
+NH,2025,66,New Hampshire,366
+NJ,2020,327,New Jersey,1825
+NJ,2021,325,New Jersey,1825
+NJ,2022,307,New Jersey,1825
+NJ,2023,349,New Jersey,1825
+NJ,2024,274,New Jersey,1825
+NJ,2025,243,New Jersey,1825
+NM,2020,94,New Mexico,533
+NM,2021,99,New Mexico,533
+NM,2022,85,New Mexico,533
+NM,2023,91,New Mexico,533
+NM,2024,99,New Mexico,533
+NM,2025,65,New Mexico,533
+NV,2020,59,Nevada,380
+NV,2021,75,Nevada,380
+NV,2022,68,Nevada,380
+NV,2023,73,Nevada,380
+NV,2024,54,Nevada,380
+NV,2025,51,Nevada,380
+NY,2020,998,New York,5150
+NY,2021,915,New York,5150
+NY,2022,875,New York,5150
+NY,2023,836,New York,5150
+NY,2024,855,New York,5150
+NY,2025,671,New York,5150
+OH,2020,306,Ohio,1557
+OH,2021,264,Ohio,1557
+OH,2022,272,Ohio,1557
+OH,2023,276,Ohio,1557
+OH,2024,238,Ohio,1557
+OH,2025,201,Ohio,1557
+OK,2020,73,Oklahoma,501
+OK,2021,77,Oklahoma,501
+OK,2022,76,Oklahoma,501
+OK,2023,90,Oklahoma,501
+OK,2024,101,Oklahoma,501
+OK,2025,84,Oklahoma,501
+OR,2020,197,Oregon,963
+OR,2021,174,Oregon,963
+OR,2022,154,Oregon,963
+OR,2023,171,Oregon,963
+OR,2024,146,Oregon,963
+OR,2025,121,Oregon,963
+PA,2020,685,Pennsylvania,3408
+PA,2021,587,Pennsylvania,3408
+PA,2022,596,Pennsylvania,3408
+PA,2023,584,Pennsylvania,3408
+PA,2024,541,Pennsylvania,3408
+PA,2025,415,Pennsylvania,3408
+RI,2020,110,Rhode Island,759
+RI,2021,117,Rhode Island,759
+RI,2022,114,Rhode Island,759
+RI,2023,133,Rhode Island,759
+RI,2024,156,Rhode Island,759
+RI,2025,129,Rhode Island,759
+SC,2020,108,South Carolina,724
+SC,2021,112,South Carolina,724
+SC,2022,108,South Carolina,724
+SC,2023,132,South Carolina,724
+SC,2024,158,South Carolina,724
+SC,2025,106,South Carolina,724
+SD,2020,29,South Dakota,198
+SD,2021,20,South Dakota,198
+SD,2022,34,South Dakota,198
+SD,2023,33,South Dakota,198
+SD,2024,45,South Dakota,198
+SD,2025,37,South Dakota,198
+TN,2020,171,Tennessee,1005
+TN,2021,165,Tennessee,1005
+TN,2022,193,Tennessee,1005
+TN,2023,154,Tennessee,1005
+TN,2024,189,Tennessee,1005
+TN,2025,133,Tennessee,1005
+TX,2020,771,Texas,4515
+TX,2021,769,Texas,4515
+TX,2022,805,Texas,4515
+TX,2023,822,Texas,4515
+TX,2024,719,Texas,4515
+TX,2025,629,Texas,4515
+UT,2020,157,Utah,838
+UT,2021,149,Utah,838
+UT,2022,155,Utah,838
+UT,2023,150,Utah,838
+UT,2024,115,Utah,838
+UT,2025,112,Utah,838
+VA,2020,392,Virginia,2127
+VA,2021,350,Virginia,2127
+VA,2022,353,Virginia,2127
+VA,2023,395,Virginia,2127
+VA,2024,396,Virginia,2127
+VA,2025,241,Virginia,2127
+VT,2020,28,Vermont,161
+VT,2021,26,Vermont,161
+VT,2022,22,Vermont,161
+VT,2023,24,Vermont,161
+VT,2024,34,Vermont,161
+VT,2025,27,Vermont,161
+WA,2020,294,Washington,1571
+WA,2021,314,Washington,1571
+WA,2022,299,Washington,1571
+WA,2023,235,Washington,1571
+WA,2024,236,Washington,1571
+WA,2025,193,Washington,1571
+WI,2020,204,Wisconsin,1148
+WI,2021,188,Wisconsin,1148
+WI,2022,193,Wisconsin,1148
+WI,2023,211,Wisconsin,1148
+WI,2024,184,Wisconsin,1148
+WI,2025,168,Wisconsin,1148
+WV,2020,35,West Virginia,244
+WV,2021,37,West Virginia,244
+WV,2022,37,West Virginia,244
+WV,2023,42,West Virginia,244
+WV,2024,55,West Virginia,244
+WV,2025,38,West Virginia,244
+WY,2020,27,Wyoming,157
+WY,2021,31,Wyoming,157
+WY,2022,18,Wyoming,157
+WY,2023,23,Wyoming,157
+WY,2024,30,Wyoming,157
+WY,2025,28,Wyoming,157
